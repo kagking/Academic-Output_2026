@@ -2,7 +2,7 @@
 # Academic Research Outputs Repository
 
 **Applicant:** Kylie G. King  
-**PhD application:** Humanities 2027, Leiden University  
+**PhD application:** Humanities, Leiden University, 2027  
 **Proposed research:** *Beyond Picasso: Entangled Art Markets and Economies of Value in the Twentieth Century*  
 **Repository date:** November 2026
 
