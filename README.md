@@ -20,11 +20,11 @@ The repository is organised into the following files:
 
 ## 2. Repository contents
 
-1. **Output 1:** King, Kylie G. “A Pre-Columbian Man and an Avant-Garde Woman: Illicit Trysts in the Mid-Century Art Market.” In <i>Histories of 20th century ancient America in the 21st century: dealers, museums, collectors, and the academy.</i> Martin Berger and Mary Miller (eds), Sidestone Press, 2027.
+1. **Output 1:** <b>King, Kylie G.</b> “A Pre-Columbian Man and an Avant-Garde Woman: Illicit Trysts in the Mid-Century Art Market.” In <i>Histories of 20th century ancient America in the 21st century: dealers, museums, collectors, and the academy.</i> Martin Berger and Mary Miller (eds), Sidestone Press, 2027 [accepted, in press].
 
-2. **Output 2:** King, Kylie G., and Payton P. Quintanilla. “Cold War, Hot Merch: The Stendahl Art Galleries and the Art of Cultural Diplomacy.” In <i>Histories of 20th century ancient America in the 21st century: dealers, museums, collectors, and the academy.</i> Martin Berger and Mary Miller (eds), Sidestone Press, 2027.
+2. **Output 2:** <b>King, Kylie G.</b>, and Payton P. Quintanilla. “Cold War, Hot Merch: The Stendahl Art Galleries and the Art of Cultural Diplomacy.” In <i>Histories of 20th century ancient America in the 21st century: dealers, museums, collectors, and the academy.</i> Martin Berger and Mary Miller (eds), Sidestone Press, 2027 [accepted, in press].
 
-3. **Output 3:** King, Kylie G., and Payton P. Quintanilla. Presentation slides for “‘The computer has entered the house of the Muse’: Everett Ellin, From Dealer to Digital Humanist.” In symposium: <i>From Artifacts to Art, From Provenance to Provenience: Archaeological Practice, Archival Research, and the Biographies of Orphaned Objects. Sessions in honour of Mary Miller.</i> Kylie G. King and Michael D. Mathiowetz (co-chairs). 91st Annual Meeting of the Society for American Archaeology, San Francisco, 2 May 2026; and in colloquium: The Stendahl Art Galleries Archive as a Gateway to Pre-Hispanic Art Provenance Research, Getty Research Institute, Los Angeles, 6 October 2026.
+3. **Output 3:** <b>King, Kylie G.</b>, and Payton P. Quintanilla. Presentation slides for “‘The computer has entered the house of the Muse’: Everett Ellin, From Dealer to Digital Humanist.” In symposium: <i>From Artifacts to Art, From Provenance to Provenience: Archaeological Practice, Archival Research, and the Biographies of Orphaned Objects. Sessions in honour of Mary Miller.</i> Kylie G. King and Michael D. Mathiowetz (co-chairs). 91st Annual Meeting of the Society for American Archaeology, San Francisco, 2 May 2026; and in colloquium: The Stendahl Art Galleries Archive as a Gateway to Pre-Hispanic Art Provenance Research, Getty Research Institute, Los Angeles, 6 October 2026.
 
 
 ## 3. Research contributions and authorship
