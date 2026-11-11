@@ -14,9 +14,6 @@ This repository provides a selection of academic research outputs submitted in p
 
 The materials have been selected to demonstrate my experience in archival and primary-source research, pre-Hispanic art provenance research, modern art history, digital humanities methodologies, and academic dissemination. They also illustrate the development of research interests underpinning my proposed doctoral project.
 
-## 2. Repository contents
-
-The repository is organised into the following files:
 
 ## 2. Repository contents
 
