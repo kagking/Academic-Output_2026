@@ -24,7 +24,7 @@ The repository is organised into the following files:
 
 2. **Output 2:** King, Kylie G., and Payton P. Quintanilla. “Cold War, Hot Merch: The Stendahl Art Galleries and the Art of Cultural Diplomacy.” In <i>Histories of 20th century ancient America in the 21st century: dealers, museums, collectors, and the academy.</i> Martin Berger and Mary Miller (eds), Sidestone Press, 2027.
 
-3. **Output 3:** King, Kylie G., and Payton P. Quintanilla. Presentation slides for “‘The computer has entered the house of the Muse’: Everett Ellin, From Dealer to Digital Humanist.” In symposium: <i>From Artifacts to Art, From Provenance to Provenience: Archaeological Practice, Archival Research, and the Biographies of Orphaned Objects. A session in honour of Mary Miller.</i> Kylie G. King and Michael D. Mathiowetz (co-chairs), 91st Annual Meeting of the Society for American Archaeology, San Francisco, 2 May 2026.
+3. **Output 3:** King, Kylie G., and Payton P. Quintanilla. Presentation slides for “‘The computer has entered the house of the Muse’: Everett Ellin, From Dealer to Digital Humanist.” In symposium: <i>From Artifacts to Art, From Provenance to Provenience: Archaeological Practice, Archival Research, and the Biographies of Orphaned Objects. Sessions in honour of Mary Miller.</i> Kylie G. King and Michael D. Mathiowetz (co-chairs). 91st Annual Meeting of the Society for American Archaeology, San Francisco, 2 May 2026.
 
 ## 3. Research contributions and authorship
 
